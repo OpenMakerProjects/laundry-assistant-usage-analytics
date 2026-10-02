@@ -1,0 +1,20 @@
+{
+  "id": 77,
+  "title": "Laundry Assistant Usage Analytics",
+  "repository_slug": "laundry-assistant-usage-analytics",
+  "category": "Smart Home",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Advanced",
+  "estimated_hours": 44,
+  "connectivity": "Local only",
+  "components": [
+    "OLED display",
+    "light sensor"
+  ],
+  "scope": "Build a smart home prototype that uses OLED display, light sensor to summarize daily and weekly usage. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Usage Analytics demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "firmware/laundry-assistant-usage-analytics/laundry-assistant-usage-analytics.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
